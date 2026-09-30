@@ -1,0 +1,11 @@
+#header {
+    color:blueviolet
+}
+#wow {
+  padding: 30px;
+  background-color: rgb(153, 236, 222);
+}
+.favorites {
+  display: flex;
+}
+
